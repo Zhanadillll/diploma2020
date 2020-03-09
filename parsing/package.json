@@ -1,0 +1,21 @@
+{
+  "name": "parsing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.7",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.8.7",
+    "chalk": "^3.0.0",
+    "cherio": "^1.0.0-rc.2",
+    "puppeteer": "^2.1.1",
+    "transliteration": "^2.1.8"
+  }
+}
